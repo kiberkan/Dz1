@@ -1,0 +1,15 @@
+C:\Users\kiber\Desktop\DZ1\Exapmles_004\bin\Debug\net6.0\Exapmles_004.exe
+C:\Users\kiber\Desktop\DZ1\Exapmles_004\bin\Debug\net6.0\Exapmles_004.deps.json
+C:\Users\kiber\Desktop\DZ1\Exapmles_004\bin\Debug\net6.0\Exapmles_004.runtimeconfig.json
+C:\Users\kiber\Desktop\DZ1\Exapmles_004\bin\Debug\net6.0\Exapmles_004.dll
+C:\Users\kiber\Desktop\DZ1\Exapmles_004\bin\Debug\net6.0\Exapmles_004.pdb
+C:\Users\kiber\Desktop\DZ1\Exapmles_004\obj\Debug\net6.0\Exapmles_004.csproj.AssemblyReference.cache
+C:\Users\kiber\Desktop\DZ1\Exapmles_004\obj\Debug\net6.0\Exapmles_004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiber\Desktop\DZ1\Exapmles_004\obj\Debug\net6.0\Exapmles_004.AssemblyInfoInputs.cache
+C:\Users\kiber\Desktop\DZ1\Exapmles_004\obj\Debug\net6.0\Exapmles_004.AssemblyInfo.cs
+C:\Users\kiber\Desktop\DZ1\Exapmles_004\obj\Debug\net6.0\Exapmles_004.csproj.CoreCompileInputs.cache
+C:\Users\kiber\Desktop\DZ1\Exapmles_004\obj\Debug\net6.0\Exapmles_004.dll
+C:\Users\kiber\Desktop\DZ1\Exapmles_004\obj\Debug\net6.0\refint\Exapmles_004.dll
+C:\Users\kiber\Desktop\DZ1\Exapmles_004\obj\Debug\net6.0\Exapmles_004.pdb
+C:\Users\kiber\Desktop\DZ1\Exapmles_004\obj\Debug\net6.0\Exapmles_004.genruntimeconfig.cache
+C:\Users\kiber\Desktop\DZ1\Exapmles_004\obj\Debug\net6.0\ref\Exapmles_004.dll
